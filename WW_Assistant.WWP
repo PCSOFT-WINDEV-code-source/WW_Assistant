@@ -1,0 +1,123 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WW_Assistant
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : Le projet a pour but de ...
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : CAAAAAgAAAADToBxGFMtoapwlcoLAnMfCq/Acy3z84bk/UIwvhwV29myKiBTJ5hkNGRT238R7E4fIa7yPc13LroG8h9JQc1zWBLSA9dLCfpuP1JlgCreHtqyvFiCPg4C0Ly2wSgxZAa1Y8lu0xT5yucek+uQMqNmh89uEVIB90FXxce3YdXSOcPOko4DZZ5g9X90WKFCGRdafAJ9Kg+cXmLGLlKLIdlvDxKYYyfIb3FKcpOKp0asZctY1vThk8LkrhFeyYZybKRwGD3FBNLVkUG6sNmHD52UqYvxpMdH7Z2rvu3mqRA4be1SX2004RceMeD0LlWOE7kpNC5t0Y0HtdFPmZFcexOvw2aQUXDI4fydgR2JSfE8w2dX1HMGSy+yIWlc7t6Dfe/RWnb3LTTNdyDhdC7GHr3Qj7JYMIbaJQy0P7BFET1/G/bmfberZbCv+svB5BduUijzNj3ydSXtB/7UWrlBJYKLUBoj2n0mc7eqNJp9L95/40OGndk77DkSea71S/di40dv2zhkps+oOJnsyllrpJ4j1itnlKYIRjn9xPuK9tITxntmlhfxaAKVZNaZ41qG3HKbXNWSqHD/DaDbYDGtsHkquTtshQM/4RxZ/6iHfdrjUDLzyajLvq4OT7S0mHqAuxYEtYhpZZ93AnOwFaPRlB2bSSuuGZtS9l5hBLtHLnu3YIfo0qzWE70euofchYHw1Bt28MbyC27emdgOOzSdjt0+j3LbYF6Ww3xHi0aQ669xts26gh/QkpoRl98rGcfqOEhK2SefdOPi0jPjmZxEYafo8sBy5852iFg6cZFZROixWqgBnm61DK0MtM7cSppke8IYsaP054Y8Wm2lUDKhhE5ZX8vw9Eilq1hYhSTYZYPpyLrvZiwqOxDNpeEk8o1drYYgDNCXOtJbGfavoWVMm1COQwZz5r0uTEHgud59jH7xDu27L6DAkYrCD/2XpzQc/qPBTFoxRD/Mia/DWhqfJl1r1EaumxOzAMVSdGJoGq9yTsrokYvOgE5mtxu1HdygTB/GC9wIMklFMc5YUAVJLINaSCgxYyzrgXkYgEfqdPkKJZtRSSX9pExf+vG3iTViuHSz8feWx0yBJotbTqPB75wzBwQ4fCFo6Azjgo5JR+TjW5v1ypwijmAFb7O6zoSlLS92ME9tG4s6PQK0GvCmVJyMvhUZLdvyTGhPxrR1rKrDt9iugX2dnW3i7T2ug/uzUWBM7RvxU5d+CJLFQ5wQbHpQHIh4AcZOx4O7T6yBoFNRJWf6MEPJSX5x8lyebiH1zD9VQya1yZsy24ok+H2LSuvarVnvo0NhrOPiEX0fcGTP24Mvqq4VA5i2xVsz831dDmlJGGHGzUX/c7YoI+M/Zn4W0Ua7omEIQYq4XNWPwaJugQsKckPIct+Z2OW9ttchtWuiv2v47u5D7A96lq7ERAXLKAY6CmS0NCbYTxWgr9H+Bh6vz4xWcvqvD9P3c2TwC8Y5cXeeXPsaQQwz+5fwm/sDZaHrUR1VnzP5gPv7eq/XPG7WydHqzekiArVoULrEAAzzPicEwtp6YStOVtonBRtWDCl16cWTvpxC3zB54OJSVFAgYaqVHxQ2c76X1urFOFdqUCr89LADGvUUHQCY226vjJ1j1R5BVE85a6UBFVOslkrV9XAKFcMXdsJqIeiQF12F7OneBTwyLmMnfv7D+GHoVWquSEgGdtMRPN86/34DVm9haC8BZvz/RXs/I5L/p+5tgE3wvImO9awf+USEnNngUUkQUZuti2KPGSU69q/gksVDgKc/RPBzmsRqRzHvVy0qT6/PokGYGJHWxuULjToD6mp8qbBlf4NKeq++djJ03KHpJzmu65rdr1Digl3AxbWyP7A+FtKDRmnKGXm6p573/h0hauVHU822Xh+M9GAIFpP8OdzyjSCgipgkn0Mn4wPfhQ2029dMb6RDJ5o2PbKKZ/7MzuqIiPDRWQ==
+ configurations :
+  -
+    name : WW_Assistant
+    internal_properties : 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
+    configuration_id : 1641151708703442148
+    type : 2
+    generation_name : .\WW_Assistant.wdl
+    version :
+     version : 1.00Aa
+     internal_generation_version : 1
+    language : 1
+    64bits : true
+    new_features_help :
+     name : ""
+     internal_properties : CAAAAAgAAACcSvygms+Iazfyvu+L0HxYy6yr8/5hwlIdfqrXp8/HxfHRzEF3WWRI6s2FYe9/4oSmd11pj9DY4pCpRE8=
+ elements :
+  identifier : 0x4aa534c500a4439e
+  elements :
+   -
+     name : PAGE_AppelAssistant
+     identifier : 0x48bd480600001c16
+     internal_properties : CAAAAAgAAADoZtDM+6AIEyoyDUiJvFE1ZMEju/K1hT3r91Hmk32fqQf7D42Wqmy/d6MdmxvVrSPtdQ==
+     physical_name : .\PAGE_AppelAssistant.wwh
+     type : 65538
+   -
+     name : PAGE_ExempleAssistant
+     identifier : 0x483869aa004dcbde
+     internal_properties : CAAAAAgAAABk4kxoVwwkx5RAw/DBWUyZYH0fV17JNixXxJFmE/2XaZ9TT4y8TG7PwWdRr3dpEYdx8Q==
+     physical_name : .\PAGE_ExempleAssistant.wwh
+     type : 65538
+   -
+     name : PAGEMOD_Simple
+     identifier : 0x486d01a5004a22eb
+     internal_properties : CAAAAAgAAAB23F5CYd5WWXoH62c7cO0ArPObQ3SX+7izzcxjZrrSVvZ4cy8q3leKQ/nj3aVbJ5lj4w==
+     physical_name : .\PAGEMOD_Simple.wwt
+     type : 65541
+  other_elements : []
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ common_generation_directory : true
+ wb_skin : 170 Elegant
+ wb_color_palette : Gena & Light
+ languages :
+  - fr-FR
+ wd_style_sheet : .\WB_Assistant.sty
+ site_map :
+  roots : []
+  orphans :
+   -
+     name : PAGE_AppelAssistant
+     parameters : []
+     title : {}
+     description : {}
+   -
+     name : PAGE_AppelAssistant
+     parameters : []
+     title : {}
+     description : {}
+   -
+     name : PAGE_ExempleAssistant
+     parameters : []
+     title : {}
+     description : {}
+   -
+     name : PAGE_ExempleAssistant
+     parameters : []
+     title : {}
+     description : {}
+   -
+     name : PAGE_ExempleAssistant_Plan5
+     parameters : []
+     title : {}
+     description : {}
+   -
+     name : PAGE_ExempleAssistant_Plan5
+     parameters : []
+     title : {}
+     description : {}
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAABseimUYz4VdXZ8hGsGFqoxLDfDcHkNZdBf0iQg2FQcqmw5VrO2lryVMt3efm9RagPlXJBReauIsX3ZdB8=
+  type_code : 0
+  p_codes :
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WW_Assistant
+     identifier : 0x4aa534c600af4468
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : WB_Assistant
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
